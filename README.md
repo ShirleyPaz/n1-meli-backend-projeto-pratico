@@ -16,3 +16,6 @@ Endpoint: http://localhost:3000/tarefas
 
 ### Buscar uma tarefa específica
 Endpoint: http://localhost:3000/tarefas/:id
+
+### Buscar tarefas por colaborador
+Endpoint: http://localhost:3000/tarefas/:nome/buscar
