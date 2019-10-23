@@ -8,6 +8,7 @@ API criada a fim de disponibilizar uma lista de tarefas a ser compartilhada entr
 - Descrição da tarefa
 - Data de Inclusão 
 - Check para verificar se o item já foi concluído.
+- Colaborador responsável pela tarefa.
 
 ## Tarefas
 
