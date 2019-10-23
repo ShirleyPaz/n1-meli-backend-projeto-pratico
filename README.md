@@ -22,7 +22,7 @@ API criada a fim de disponibilizar uma lista de tarefas a ser compartilhada entr
 - Check para verificar se o item já foi concluído.
 - Colaborador responsável pela tarefa.
 
-## Endpoint
+## Endpoints
 
 ### Listar Tarefas
 Endpoint: http://localhost:3000/tarefas
