@@ -1,11 +1,17 @@
 # ToDoList
 
-Primeiro projeto realizado para a turma n1-meli-reprograma, utilizando Node.js.
+Primeiro projeto realizado para a turma n1-meli-reprograma, utilizando Javascript, Node.js v12.10.0, express v4.17.1 e nodemon v1.19.4. 
 
 ## Instalação
 Para instalar as dependências nodemon e express, utilizar o comando:
 ```bash
 npm install
+```
+
+## Iniciar Aplicação
+Para iniciar a aplicação, utilizar o comando:
+```bash
+npm start
 ```
 
 ## Objetivo
