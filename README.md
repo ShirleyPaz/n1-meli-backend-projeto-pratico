@@ -1,6 +1,12 @@
 # ToDoList
 
-Primeiro projeto realizado para a turma n1-meli-reprograma.
+Primeiro projeto realizado para a turma n1-meli-reprograma, utilizando Node.js.
+
+## Instalação
+Para instalar as dependências nodemon e express, utilizar o comando:
+```bash
+npm install
+```
 
 ## Objetivo
 API criada a fim de disponibilizar uma lista de tarefas a ser compartilhada entre os funcionários. Os dados da tarefa são:
